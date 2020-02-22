@@ -18,6 +18,7 @@
     "package.json",
     "pca.js",
     "pcaa.js",
+    "areaData.js",
     "README.md"
   ],
   "keywords": [
